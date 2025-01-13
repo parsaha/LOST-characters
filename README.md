@@ -20,12 +20,9 @@ The original motivation for the project came from a simple question: are episode
 
 ## Finding Transcripts
 
-At first, the hardest part of bringing this project idea to fruition was finding a source that could provide transcripts of all the episodes in the show. Luckily, I found out that the good folks at [Lostpedia](https://lostpedia.fandom.com/wiki/Main_Page) did just that! Now that I had [my data source](https://lostpedia.fandom.com/wiki/Portal:Transcripts), it was time to scrape the data using Beautiful Soup. Though I've [had experience](https://github.com/parsaha/imdb) with web scraping before, I made use of [this Dataquest tutorial](https://www.dataquest.io/blog/web-scraping-beautifulsoup/) to brush up on it (as seen in the ?? file of this repository). 
+At first, the hardest part of bringing this project idea to fruition was finding a source that could provide transcripts of all the episodes in the show. Luckily, I found out that the good folks at [Lostpedia](https://lostpedia.fandom.com/wiki/Main_Page) did just that! Now that I had [my data source](https://lostpedia.fandom.com/wiki/Portal:Transcripts), it was time to scrape the data using Beautiful Soup. Though I've [had experience](https://github.com/parsaha/imdb) with web scraping before, I made use of [this Dataquest tutorial](https://www.dataquest.io/blog/web-scraping-beautifulsoup/) to brush up on it (as seen in the `Lost Transcripts EDA (Pilot)` file of this repository). Ratings for each of the episodes were taken from [IMDb](https://www.imdb.com/title/tt0411008/ratings/).
 
 
-## Finding Ratings
-
-imdb API? 
 
 
 
