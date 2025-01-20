@@ -1,3 +1,6 @@
+
+![lost-title-logo-slice](https://github.com/user-attachments/assets/5c1381df-7f1f-40e6-ac3a-e6f65fbd710b)
+
 # LOST-characters
 
 `LOST-characters` is an EDA project on the scripts of the episodes of the show *Lost*. 
