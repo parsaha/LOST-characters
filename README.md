@@ -66,7 +66,14 @@ Ben is in fact obsessed with John and the island, but outside of that I wasn't s
 
 As promised, "dude" and "man" are center-stage! And though it's not particularly insightful, I do like that the words "uh" and "oh" (and "uh oh" by extension) are so common in Hurley's vocabulary. 
 
-# Sawyerisms
+# Bonus Content
+
+## Sawyerisms
 
 At some point I wondered if I could find all the nicknames Sawyer gives people in this project (for example, extract all the unique instances of proper nouns Sawyer uses that aren't actual names used in the transcripts). However, before I could engage in that headache of edge cases and manual quality checking, I realized that Lostpedia had [made life easy](https://lostpedia.fandom.com/wiki/Sawyer%27s_nicknames) for me once again. While it would have been fun to find these myself and compare which characters are subject to the most nicknames, I figured I would leave this here for any interested parties since it does a much better job than any semi-automated solution could have.
 
+## Bloopers
+
+While creating one of the visuals, I accidentally created this (apt) graph of the most talkative character(s) in the show:
+
+![funny-lost-mistake](https://github.com/user-attachments/assets/99719836-ddcb-43f9-b30e-e8808bb57317)
